@@ -1,4 +1,4 @@
-# test
+# DiceGame
 
 > A Vue.js project
 
